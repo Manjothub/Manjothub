@@ -1,7 +1,6 @@
 ### <h2> Hey Everyone 😉👋</h2>
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/090/484/940.gif">
 
-“I can do this all day.”
 ### With great power comes great responsibility ☝
 ### My name is Manjot Singh 🕸 
 <ol>
