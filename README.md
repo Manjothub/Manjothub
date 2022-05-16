@@ -1,22 +1,29 @@
-<!-- <img src="banner.png" alt="banner" /> -->
+### <h2> Hey Everyone 😉👋</h2>
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/090/484/940.gif">
 
-### Hi there and welcome to my GitHub page 👋
+“I can do this all day.”
+### With great power comes great responsibility ☝
+### My name is Manjot Singh 🕸 
+<ol>
+  <li>I am a Full Stack Developer </li>
+  <li>Technology Entusiast </li>
+  <li>Movie Buff </li>
+  <li>Traveller </li>
+  <li>Great Foodie </li>
+</ol>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-My name is Manjot Singh and I am a web developer from Dehradun, Uttrakhand. I do a lot of things, and some of them you may even find interesting. 🤞
 
----
-
-### What do I do?
+### Tech Stack ?
 
 <p>
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-page" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-page" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-page" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-page" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-page" />
 <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-page" />
+<img alt="wordpress" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" height="10px" width ="10px" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-page" />
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-page" />
 <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind&logoColor=white&style=for-the-page" />
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-page" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-page" />
@@ -24,21 +31,18 @@ My name is Manjot Singh and I am a web developer from Dehradun, Uttrakhand. I do
   
   ---
   
-  -I’m currently (and constantly) working on my <a href="https://github.com/thepandeyaarpit"> Personal Projects </a>.
+  -I’m currently (and constantly) working on my <a href="https://github.com/Manjothub"> Personal Projects </a>.
   ### Send me a message!
   - I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
 
 <p>
-  <a href="https://www.linkedin.com/in/arpit-pandeya-610173199">
+  <a href="https://www.linkedin.com/in/manjot-singh-25678317b/">
        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-page" /> 
   </a>
-  <a href="https://twitter.com/ArpitPandeya">
-       <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-page" /> 
-  </a>
-  <a href="https://instagram.com/pandeya_arpit?igshid=YmMyMTA2M2Y=">
+  <a href="https://www.instagram.com/manjot.singh_/">
        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-page" /> 
   </a>
-  <a href="https://www.facebook.com/arpit.pandeya.9">
+  <a href="https://www.facebook.com/profile.php?id=100012594061683">
        <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-page" /> 
   </a>
 
