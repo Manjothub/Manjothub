@@ -24,7 +24,6 @@
 <!-- <img alt="wordpress" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" height="10px" width ="10px" /> -->
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-page" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-page" />
-<img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white&style=for-the-page" />
 <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-page" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-page" />
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-page" />
