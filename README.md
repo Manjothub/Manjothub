@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **on Personal Project**
 
-- 🌱 I’m currently learning **Framesworkes**
+- 🌱 I’m currently learning **Frameworks**
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
