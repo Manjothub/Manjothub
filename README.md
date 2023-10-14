@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manjot Singh</h1>
-<h3 align="center">I'm a software developer working on my free time on several projects (as contributor or as maintainer) to bring better tools to the community. Although I have made contributions in some languages, I have focused on improving my knowledge in a few. 🤞</h3>
+<h3 align="center">I'm a software developer working on my free time on several projects to bring better tools to the community. I have focused on improving my knowledge in a few. 🤞</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjothub&label=Profile%20views&color=0e75b6&style=flat" alt="manjothub" /> </p>
 
