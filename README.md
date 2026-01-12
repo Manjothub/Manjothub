@@ -19,7 +19,7 @@
 
   🔥 Crafting production-grade apps with **Python, React, Django & TensorFlow**  
   🧠 Passionate about **scalable architecture**, **performance optimization**, and **developer experience**  
-  ⚡ Currently building AI-powered platforms & ** Scalable Applications**
+  ⚡ Currently building AI-powered platforms & **Scalable Applications**
 
   <br><br>
 
@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="30" alt="AWS"/>
 </div>
 
 ---
