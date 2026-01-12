@@ -1,79 +1,77 @@
-<h6 align="left">Hey there! 👋 I'm Manjot Singh, a Software Engineer from 🌎.<br><br>🔭 Currently, I'm diving into personal projects and exploring cutting-edge web dev tech.<br><br>👯 I'm eager to collaborate on open-source projects that enhance productivity and UX.<br><br>🤝 Seeking guidance on software architecture and design patterns.<br><br>🌱 Currently mastering frameworks and delving deeper into advanced development techniques.<br><br>💬 Ask me anything about building scalable web apps, optimizing performance, or ensuring accessibility.<br><br>⚡ Fun fact: I once built a fully functional web app in a 24-hour hackathon!<br><br>Looking forward to connecting and innovating together!</h6>
-
-###
+<!-- 
+  ██████╗  █████╗ ███╗   ██╗██████╗ ██╗   ██╗███████╗██████╗ 
+  ██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║██╔════╝██╔══██╗
+  ██████╔╝███████║██╔██╗ ██║██████╔╝██║   ██║█████╗  ██████╔╝
+  ██╔══██╗██╔══██║██║╚██╗██║██╔═══╝ ██║   ██║██╔══╝  ██╔══██╗
+  ██████╔╝██║  ██║██║ ╚████║██║     ╚██████╔╝███████╗██║  ██║
+  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝
+  
+  Hi, I'm Manjot Singh 👨‍💻 | Senior Full Stack Developer + AI Engineer
+  Building scalable systems • Optimizing performance • Shipping clean code
+-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manjothub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Manjothub&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manjothub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=4F8CFF&center=true&vCenter=true&width=600&lines=System+Design+Enthusiast;Full+Stack+%26+AI+Engineer;Scalable+Web+Architectures;Performance+%26+UX+Focused" alt="Typing SVG" />
+
+  <br><br>
+
+  🔥 Crafting production-grade apps with **Python, React, Django, Node.js & TensorFlow**  
+  🧠 Passionate about **system design**, **clean architecture**, and **developer experience**  
+  ⚡ Currently at **Spaising Technologies** — building AI-powered web platforms
+
+  <br><br>
+
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Manjothub&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Manjothub&theme=dracula&hide_border=true&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjothub&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" />
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFlOWdyZ2Q2cXY0OXc0NzhlZWMwNmttdDd0M216dng4ZWNuYXlqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4VLkYrTmVcbbTtICC1/giphy.gif"  />
+### 💼 Professional Stack
 
-###
+> “I don’t just write code — I design systems that scale.”
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-</div>
+- **Frontend**: `React` • `TypeScript` • `Tailwind CSS` • `HTML/CSS`
+- **Backend**: `Python` • `Django` • `FastAPI` • `Node.js` • `Express` • `PHP/Laravel`
+- **AI/ML**: `TensorFlow` • `OpenCV` • `Pandas/NumPy` • Computer Vision
+- **Databases**: `MongoDB` • `MySQL` • `PostgreSQL` • `SQL`
+- **DevOps**: `GitHub Actions (CI/CD)` • `Firebase` • `RESTful APIs` • `JWT Auth`
+- **Principles**: Clean Code • SOLID • Microservices • Performance Budgets • Accessibility
 
-###
+---
+
+### 🛠️ Featured Projects
+
+| Project | Tech | Outcome |
+|--------|------|--------|
+| **Carbon Emission Tracker** | Python, TensorFlow, React, MongoDB | Reduced org footprint by **25%** |
+| **AI Task Monitoring System** | OpenCV, Django, WebRTC | **40%** accuracy boost in productivity tracking |
+| **Gov Accounts Portal** | Django, PostgreSQL, JWT | Secured **50K+** user accounts, zero breaches |
+| **YardSignPlus (eComm)** | Laravel, Stripe, MySQL | **150%** revenue growth for SMB client |
+
+> 🔗 [View Live Portfolio →](https://manjot-singh.netlify.app)
+
+---
+
+### 📬 Let’s Connect
 
 <div align="left">
-  <a href="https://www.instagram.com/manjot.singh_?igsh=cXJxMXgweGlnZGdk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="heyitsmanjotsingh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:heyitsmanjotsingh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/manjot-singh-profile/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://manjot-singh.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4F8CFF?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
-###
+---
 
-###
+> 💡 **Open to**: Full-time roles • Contract projects • System design discussions • Open-source collabs  
+> 🎯 **Looking for**: Teams that value **engineering excellence**, **user impact**, and **continuous learning**
