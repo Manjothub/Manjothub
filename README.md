@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" />
-  <img src="cdn.jsdelivr.net" height="30" alt="AWS Logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" height="30" alt="AWS"/>
 </div>
 
 ---
