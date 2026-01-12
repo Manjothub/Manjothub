@@ -1,77 +1,94 @@
-<!-- 
-  ██████╗  █████╗ ███╗   ██╗██████╗ ██╗   ██╗███████╗██████╗ 
-  ██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║██╔════╝██╔══██╗
-  ██████╔╝███████║██╔██╗ ██║██████╔╝██║   ██║█████╗  ██████╔╝
-  ██╔══██╗██╔══██║██║╚██╗██║██╔═══╝ ██║   ██║██╔══╝  ██╔══██╗
-  ██████╔╝██║  ██║██║ ╚████║██║     ╚██████╔╝███████╗██║  ██║
-  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝
-  
-  Hi, I'm Manjot Singh 👨‍💻 | Senior Full Stack Developer + AI Engineer
-  Building scalable systems • Optimizing performance • Shipping clean code
+<!--
+▓█████▄  ██▀███   ▄▄▄       ██▓ ███▄    █   ██████ 
+▒██▀ ██▌▓██ ▒ ██▒▒████▄    ▓██▒ ██ ▀█   █ ▒██    ▒ 
+░██   █▌▓██ ░▄█ ▒▒██  ▀█▄  ▒██▒▓██  ▀█ ██▒░ ▓██▄   
+░▓█▄   ▌▒██▀▀█▄  ░██▄▄▄▄██ ░██░▓██▒  ▐▌██▒  ▒   ██▒
+░▒████▓ ░██▓ ▒██▒ ▓█   ▓██▒░██░▒██░   ▓██░▒██████▒▒
+ ▒▒▓  ▒ ░ ▒▓ ░▒▓░ ▒▒   ▓▒█░░▓  ░ ▒░   ▒ ▒ ▒ ▒▓▒ ▒ ░
+ ░ ▒  ▒   ░▒ ░ ▒░  ▒   ▒▒ ░ ▒ ░░ ░░   ░ ▒░░ ░▒  ░ ░
+ ░ ░  ░   ░░   ░   ░   ▒    ▒ ░   ░   ░ ░ ░  ░  ░  
+   ░       ░           ░  ░ ░           ░       ░  
+ ░                                                 
+Hi, I'm Manjot Singh 👨‍💻 | Senior Full Stack + AI Engineer
+Building systems that scale • Obsessed with clean architecture • Shipping since 2022
 -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=4F8CFF&center=true&vCenter=true&width=600&lines=System+Design+Enthusiast;Full+Stack+%26+AI+Engineer;Scalable+Web+Architectures;Performance+%26+UX+Focused" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=4F8CFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Integrator;System+Design+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
   <br><br>
 
-  🔥 Crafting production-grade apps with **Python, React, Django, Node.js & TensorFlow**  
-  🧠 Passionate about **system design**, **clean architecture**, and **developer experience**  
-  ⚡ Currently at **Spaising Technologies** — building AI-powered web platforms
+  🔥 Crafting production-grade apps with **Python, React, Django & TensorFlow**  
+  🧠 Passionate about **scalable architecture**, **performance optimization**, and **developer experience**  
+  ⚡ Currently building AI-powered platforms at **Spaising Technologies**
 
   <br><br>
 
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Manjothub&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Manjothub&theme=dracula&hide_border=true&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjothub&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Manjothub&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B0F19" height="140" />
+  <img src="https://streak-stats.demolab.com?user=Manjothub&theme=dracula&hide_border=true&border_radius=5&bg_color=0B0F19" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjothub&layout=compact&theme=dracula&hide_border=true&bg_color=0B0F19&langs_count=8" height="140" />
 
 </div>
 
 ---
 
-### 💼 Professional Stack
+### 💻 Tech Stack
 
-> “I don’t just write code — I design systems that scale.”
+> “Tools don’t build systems — engineers do. But I choose the right tools.”
 
-- **Frontend**: `React` • `TypeScript` • `Tailwind CSS` • `HTML/CSS`
-- **Backend**: `Python` • `Django` • `FastAPI` • `Node.js` • `Express` • `PHP/Laravel`
-- **AI/ML**: `TensorFlow` • `OpenCV` • `Pandas/NumPy` • Computer Vision
-- **Databases**: `MongoDB` • `MySQL` • `PostgreSQL` • `SQL`
-- **DevOps**: `GitHub Actions (CI/CD)` • `Firebase` • `RESTful APIs` • `JWT Auth`
-- **Principles**: Clean Code • SOLID • Microservices • Performance Budgets • Accessibility
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" />
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS" />
+</div>
 
 ---
 
-### 🛠️ Featured Projects
+### 🎯 What I Bring to the Table
 
-| Project | Tech | Outcome |
-|--------|------|--------|
-| **Carbon Emission Tracker** | Python, TensorFlow, React, MongoDB | Reduced org footprint by **25%** |
-| **AI Task Monitoring System** | OpenCV, Django, WebRTC | **40%** accuracy boost in productivity tracking |
-| **Gov Accounts Portal** | Django, PostgreSQL, JWT | Secured **50K+** user accounts, zero breaches |
-| **YardSignPlus (eComm)** | Laravel, Stripe, MySQL | **150%** revenue growth for SMB client |
-
-> 🔗 [View Live Portfolio →](https://manjot-singh.netlify.app)
+- ✅ **4+ years** shipping full-stack applications in production  
+- ✅ Deep experience with **RESTful APIs**, **JWT auth**, **CI/CD**, and **cloud deployment**  
+- ✅ Built **AI systems** using **TensorFlow, OpenCV, Pandas** for real-world impact  
+- ✅ Strong advocate for **clean code**, **SOLID principles**, and **testable architecture**  
+- ✅ Comfortable across **monoliths** and **microservices**
 
 ---
 
 ### 📬 Let’s Connect
 
-<div align="left">
+<div align="center">
   <a href="mailto:heyitsmanjotsingh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/manjot-singh-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
   <a href="https://manjot-singh.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4F8CFF?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-4F8CFF?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Manjothub?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" />
   </a>
 </div>
 
 ---
 
-> 💡 **Open to**: Full-time roles • Contract projects • System design discussions • Open-source collabs  
-> 🎯 **Looking for**: Teams that value **engineering excellence**, **user impact**, and **continuous learning**
+> 💡 **Open to**: Full-time roles • Technical collaborations • System design discussions  
+> 🎯 **Seeking teams** that value **engineering excellence**, **user impact**, and **continuous learning**
