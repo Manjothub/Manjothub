@@ -1,21 +1,19 @@
-<!--
-▓█████▄  ██▀███   ▄▄▄       ██▓ ███▄    █   ██████ 
-▒██▀ ██▌▓██ ▒ ██▒▒████▄    ▓██▒ ██ ▀█   █ ▒██    ▒ 
-░██   █▌▓██ ░▄█ ▒▒██  ▀█▄  ▒██▒▓██  ▀█ ██▒░ ▓██▄   
-░▓█▄   ▌▒██▀▀█▄  ░██▄▄▄▄██ ░██░▓██▒  ▐▌██▒  ▒   ██▒
-░▒████▓ ░██▓ ▒██▒ ▓█   ▓██▒░██░▒██░   ▓██░▒██████▒▒
- ▒▒▓  ▒ ░ ▒▓ ░▒▓░ ▒▒   ▓▒█░░▓  ░ ▒░   ▒ ▒ ▒ ▒▓▒ ▒ ░
- ░ ▒  ▒   ░▒ ░ ▒░  ▒   ▒▒ ░ ▒ ░░ ░░   ░ ▒░░ ░▒  ░ ░
- ░ ░  ░   ░░   ░   ░   ▒    ▒ ░   ░   ░ ░ ░  ░  ░  
-   ░       ░           ░  ░ ░           ░       ░  
- ░                                                 
-Hi, I'm Manjot Singh 👨‍💻 | Senior Full Stack + AI Engineer
-Building systems that scale • Obsessed with clean architecture • Shipping since 2022
+<!-- 
+  ██████╗ ██╗   ██╗██╗     ███████╗██████╗ 
+  ██╔══██╗╚██╗ ██╔╝██║     ██╔════╝██╔══██╗
+  ██████╔╝ ╚████╔╝ ██║     █████╗  ██████╔╝
+  ██╔══██╗  ╚██╔╝  ██║     ██╔══╝  ██╔══██╗
+  ██████╔╝   ██║   ███████╗███████╗██║  ██║
+  ╚═════╝    ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
+
+  👨‍💻 Manjot Singh — Full Stack Developer & AI Engineer  
+  🌐 Building systems like Stark builds suits — scalable, secure, intelligent  
+  ⚡ Currently at Spaising Technologies — crafting AI-powered web platforms  
 -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=4F8CFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Integrator;System+Design+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=4F8CFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Engineer;System+Design+Architect;Stark+Tech+Builder" alt="Typing SVG" />
 
   <br><br>
 
@@ -25,18 +23,14 @@ Building systems that scale • Obsessed with clean architecture • Shipping si
 
   <br><br>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Manjothub&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B0F19" height="140" />
-  <img src="https://streak-stats.demolab.com?user=Manjothub&theme=dracula&hide_border=true&border_radius=5&bg_color=0B0F19" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjothub&layout=compact&theme=dracula&hide_border=true&bg_color=0B0F19&langs_count=8" height="140" />
-
+  <!-- No stats — clean & focused -->
 </div>
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack — “The Arsenal”
 
-> “Tools don’t build systems — engineers do. But I choose the right tools.”
+> “I don’t just write code — I engineer systems that scale like the Avengers’ HQ.”
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -61,7 +55,9 @@ Building systems that scale • Obsessed with clean architecture • Shipping si
 
 ---
 
-### 🎯 What I Bring to the Table
+### 🛡️ What I Bring to the Table
+
+> “Like Tony Stark, I build tools that solve real problems — not just code.”
 
 - ✅ **4+ years** shipping full-stack applications in production  
 - ✅ Deep experience with **RESTful APIs**, **JWT auth**, **CI/CD**, and **cloud deployment**  
