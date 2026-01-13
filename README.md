@@ -75,7 +75,7 @@
   <a href="https://www.linkedin.com/in/manjot-singh-profile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://manjot-singh.netlify.app" target="_blank">
+  <a href="https://hey-its-manjot.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4F8CFF?style=for-the-badge&logo=vercel&logoColor=white" height="30" alt="Portfolio" />
   </a>
   <a href="https://github.com/Manjothub?tab=repositories" target="_blank">
